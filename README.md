@@ -13,7 +13,7 @@ This repository contains a comprehensive implementation of heart disease predict
 ## Requirements
 To run this project, install the dependencies listed in `requirements.txt`:
 
-##Usage
+## Usage
 
 Load the dataset:
 The dataset should be in CSV format and named dataset_heart.csv.
@@ -23,10 +23,10 @@ AutoGluon will provide an automated leaderboard of various models.
 Custom Model Implementation:
 The repository includes custom implementations of Decision Tree and Random Forest classifiers, allowing detailed exploration.
 
-##Results:
+## Results:
 Visualize metrics such as accuracy, F1-score, and confusion matrices for better interpretation of results.
 
-##Discussion and Conclusion
+## Discussion and Conclusion
 
 The custom models demonstrate similar performance to Scikit-learn's models but with slower training times due to:
 
